@@ -20,7 +20,7 @@ month_dict_UI = {'January':1, 'February':2, 'March':3, 'April':4, 'May':5, 'June
 
 st.set_page_config(layout="wide")
 
-st.title('Panamericana Weather')
+st.title('Roadtrip Weather Planning Tool')
 
 # Data Loading
 data_load_state = st.text('Loading data...')
